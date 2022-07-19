@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Shanti&display=swap');
+
+/* Basic tags */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(39, 33, 33);
+    font-family: 'Shanti', sans-serif;
+}
+
+main {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    font-size: 1.3em;
+    color: rgb(192, 192, 192);
+}
+
+button {
+    font-size: .8em;
+    padding: .75em 1.25em;
+    width: 12em;
+    margin-top: 1em;
+    border: none;
+    border-radius: .5em;
+}
+
+hr {
+    width: 100%;
+    color: gray;
+    border: 0.5px solid gray;
+}
+
+
+/* Typography and passwords */
+#green {
+    color: green;
+    margin-bottom: 1em;
+}
+
+.title {
+    font-size: 2em;
+    margin: 0;
+}
+
+div.col-5 {
+    background-color: rgb(97, 87, 87);
+    margin-top: 1em;
+    border-radius: .2em;
+    font-size: .8em;
+    padding: .5em;
+}
+
+.row {
+    margin-right: 1em;
+}
