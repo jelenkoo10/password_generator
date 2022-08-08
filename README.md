@@ -28,7 +28,7 @@ Users are allowed to:
 
 ### Links
 
-- Live Site URL: [Color Scheme Generator](https://jelenkoo10.github.io/color_scheme_generator/)
+- Live Site URL: [Password Generator](https://jelenkoo10.github.io/password_generator/)
 
 
 ## Process
