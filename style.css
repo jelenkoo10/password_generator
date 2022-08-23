@@ -54,3 +54,11 @@ div.col-5 {
 .row {
     margin-right: 1em;
 }
+
+/* Media query */
+@media screen and (max-width: 500px) {
+    main {
+        font-size: 1em;
+        padding: 1em;
+    }
+}
